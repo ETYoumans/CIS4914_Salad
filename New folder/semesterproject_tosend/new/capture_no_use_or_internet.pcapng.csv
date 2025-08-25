@@ -1,0 +1,1 @@
+relative_timestamp,src_ip,dst_ip,src_port,dst_port,length,inter_arrival_time,rolling_avg_length,is_malicious
